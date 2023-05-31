@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CancelShanto
-- 👀 I’m interested in idk      
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on idk
+- 👋 Hi, I’m @CancelShanto   
+- 🌱 I’m currently learning html and css
 - 📫 How to reach me (don't)
 
 <!---
