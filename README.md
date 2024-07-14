@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CancelShanto   
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html, css, javascript, java, python, c
 - 📫 How to reach me (don't)
 
 <!---
